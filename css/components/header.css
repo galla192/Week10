@@ -1,0 +1,13 @@
+/* line 4, ../../sass/components/header.sass */
+.media-grid.media-grid-1.header li {
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 20px;
+}
+/* line 9, ../../sass/components/header.sass */
+.media-grid.media-grid-1.header img {
+  margin-top: 20px;
+  border-radius: 100px;
+  border: solid;
+  border-color: black;
+}

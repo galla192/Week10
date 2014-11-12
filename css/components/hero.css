@@ -1,0 +1,31 @@
+/* line 4, ../../sass/components/hero.sass */
+.media-grid.media-grid-1.hero li {
+  width: 100%;
+  height: 200px;
+  z-index: 1;
+  -webkit-transition: width 2s, height 2s;
+  transition: width 2s, height 2s;
+}
+/* line 10, ../../sass/components/hero.sass */
+.media-grid.media-grid-1.hero li img {
+  margin-top: 10px;
+}
+/* line 13, ../../sass/components/hero.sass */
+.media-grid.media-grid-1.hero li:hover {
+  width: 100%;
+  height: 300px;
+}
+
+/* line 17, ../../sass/components/hero.sass */
+.zoompic {
+  width: 180px;
+  height: 180px;
+  -webkit-transition: width 2s, height 2s;
+  transition: width 2s, height 2s;
+}
+
+/* line 23, ../../sass/components/hero.sass */
+.zoompic:hover {
+  width: 25%;
+  height: 280px;
+}
